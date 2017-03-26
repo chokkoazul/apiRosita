@@ -1,1 +1,4 @@
 # apiRosita
+Ejecutar
+
+>>npm install
